@@ -1,4 +1,4 @@
-# Portafolio de Presentaciones en LaTeX
+# Capacitación Transporte Vertical en Chile - Portafolio de Presentaciones en LaTeX
 
 ¡Bienvenido a mi portafolio de presentaciones en LaTeX! Aquí encontrarás las diapositivas y materiales de capacitación que he desarrollado para el sector de transporte vertical (ascensores y montacargas).
 
