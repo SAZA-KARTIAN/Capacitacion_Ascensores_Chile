@@ -33,23 +33,6 @@ LICENSE                          # Licencia del repositorio
 
 ## 🚀 Cómo Usar
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/portafolio-ascensores.git
-   ```
-2. Ingresa a la carpeta de la presentación deseada:
-   ```bash
-   cd presentations/normativa-legal
-   ```
-3. Compila el archivo `.tex` con LaTeX Beamer:
-   ```bash
-   pdflatex presentacion.tex
-   ```
-4. Abre el PDF generado:
-   ```bash
-   open presentacion.pdf  # macOS
-   xdg-open presentacion.pdf  # Linux
-   ```
 
 ## 🤝 Contribuciones
 Si quieres sugerir mejoras, reportar errores o colaborar con nuevas presentaciones, por favor abre un _issue_ o envía un _pull request_. ¡Toda aportación es bienvenida!
