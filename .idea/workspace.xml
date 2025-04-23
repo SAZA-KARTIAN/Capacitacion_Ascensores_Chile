@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2f61749-4afe-480b-87e0-f9a76e5cb367" name="Cambios" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/Secciones/01_Uso_del_presente_material.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Normativa Legal Vigente/Secciones/01_Uso_del_presente_material.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/Settings/paquetes.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Normativa Legal Vigente/Settings/paquetes.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/document.aux" beforeDir="false" afterPath="$PROJECT_DIR$/Normativa Legal Vigente/document.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/document.log" beforeDir="false" afterPath="$PROJECT_DIR$/Normativa Legal Vigente/document.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/document.nav" beforeDir="false" afterPath="$PROJECT_DIR$/Normativa Legal Vigente/document.nav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/document.out" beforeDir="false" afterPath="$PROJECT_DIR$/Normativa Legal Vigente/document.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/document.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/document.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Normativa Legal Vigente/document.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/document.tex" beforeDir="false" afterPath="$PROJECT_DIR$/Normativa Legal Vigente/document.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normativa Legal Vigente/document.toc" beforeDir="false" afterPath="$PROJECT_DIR$/Normativa Legal Vigente/document.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auxil/00_portada.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auxil/01_Uso_del_presente_material.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auxil/document.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auxil/document.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auxil/document.nav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auxil/document.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auxil/document.snm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auxil/document.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auxil/paquetes.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/document.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/document.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/document.synctex.gz.sum.synctex" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SAZA-KARTIAN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SAZA-KARTIAN/Capacitacion_Ascensores_Chile.git&quot;,
+    &quot;accountId&quot;: &quot;f2ee51be-0a4c-4c7e-a7da-41cba9d97638&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2w8J1LnMXpRfjTx8K7mvaw1wQoF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "LaTeX.00_portada.executor": "Run",
+    "LaTeX.01_Uso_del_presente_material.executor": "Run",
+    "LaTeX.document.executor": "Run",
+    "LaTeX.paquetes.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Tarea predeterminada">
+      <changelist id="b2f61749-4afe-480b-87e0-f9a76e5cb367" name="Cambios" comment="" />
+      <created>1745417051260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745417051260</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Formato">
+      <option name="closed" value="true" />
+      <created>1745423808773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745423808774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Formato">
+      <option name="closed" value="true" />
+      <created>1745423864824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745423864824</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Formato">
+      <option name="closed" value="true" />
+      <created>1745423952242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745423952242</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Formato">
+      <option name="closed" value="true" />
+      <created>1745424120580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745424120580</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Formato">
+      <option name="closed" value="true" />
+      <created>1745424132314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745424132314</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1745424168015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745424168015</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1745424179847</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745424179847</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1745424199688</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745424199688</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1745424215248</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745424215248</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Formato" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+  </component>
+</project>
