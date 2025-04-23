@@ -1,0 +1,73 @@
+% ======================================================
+% 1. Clase de documento y opciones globales
+% ======================================================
+\documentclass[spanish]{beamer}
+% - “spanish”: localiza automáticamente textos de Beamer en español.
+
+% ======================================================
+% 2. Preámbulo común
+% ======================================================
+\input{Settings/paquetes}
+% Carga un archivo externo con TODOS los \usepackage{},
+% definiciones de colores, comandos, etc. centralizados.
+
+% ======================================================
+% 3. Inicio del documento
+% ======================================================
+\begin{document}
+
+    % ------------------------------------------------------
+    % 3.1 Configuración inicial (título, autor, fecha…)
+    % ------------------------------------------------------
+    \input{Settings/inicial}
+    % En este archivo define \title{…}, \author{…}, \date{…},
+    % y ajustes de tema (colores, footline, headline, etc.)
+
+    % ======================================================
+    % 4. Portada “canónica”
+    % ======================================================
+    \input{Secciones/00_portada}
+    % Diapositiva de portada estándar generada con \maketitle o \titlepage
+
+    % ======================================================
+    % 5. Portada “a medida” sin cabecera ni pie
+    % ======================================================
+    {
+    % Dentro de un grupo local para no alterar el resto
+        \setbeamertemplate{headline}{}   % Suprime la cabecera
+        \setbeamertemplate{footline}{}   % Suprime el pie de página
+        \begin{frame}[plain]             % “plain” = sin decoraciones
+            \vspace*{-1cm}                 % Eleva el contenido
+            \begin{columns}
+                \column{0.45\textwidth}       % Espacio reservado para logo
+                \vspace*{-6.5cm}              % Ajuste vertical del logo
+                %\includegraphics[width=4cm]{Imágenes/FM}
+                % Uncomment y ajusta la ruta del logo
+            \end{columns}
+            \titlepage                     % Genera automáticamente título, autor, fecha
+        \end{frame}
+    }
+
+    % ======================================================
+    % 6. Índice automático al comenzar cada sección
+    % ======================================================
+    \AtBeginSection[]{
+        \begin{frame}{Contenido}
+            \begin{multicols}{2}          % Divide el índice en 2 columnas
+                \tableofcontents[currentsection]
+            \end{multicols}
+        \end{frame}
+    }
+
+    % ======================================================
+    % 7. Contenido principal: secciones
+    % ======================================================
+    \input{Secciones/01_Uso_del_presente_material}
+    % - Aquí cargas cada bloque de tu presentación organizado por archivos.
+
+    % (Opcional) Slide final con portada para cierre
+    \begin{frame}
+        \titlepage
+    \end{frame}
+
+\end{document}

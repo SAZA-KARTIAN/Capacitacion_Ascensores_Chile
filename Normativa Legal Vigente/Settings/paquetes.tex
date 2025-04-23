@@ -1,0 +1,121 @@
+% =========================================
+% 1. Documento y tema
+% =========================================
+\usetheme{Singapore}               % Tema
+
+% =========================================
+% 2. Codificación y lenguaje
+% =========================================
+\usepackage[utf8]{inputenc}     % Codificación de entrada UTF-8
+\usepackage[T1]{fontenc}        % Codificación de salida de fuentes
+\usepackage[spanish]{babel}     % Traduce términos al español (p. ej. “Figura”, “Tabla”)
+
+% =========================================
+% 3. Hipervínculos
+% =========================================
+\usepackage{hyperref}           % Soporte para enlaces intern​os y externos
+
+% =========================================
+% 4. Gráficos y dibujos
+% =========================================
+\usepackage{graphicx}           % Incluir imágenes (\includegraphics)
+\usepackage{tikz}               % Dibujos vectoriales
+\usetikzlibrary{
+    arrows.meta,                 % Flechas avanzadas
+    positioning,                 % Posicionamiento relativo
+    shapes.geometric             % Formas geométricas
+}
+\usepackage{pgf-umlcd}          % Diagramas UML (opcional)
+
+% =========================================
+% 5. Matemáticas
+% =========================================
+\usepackage{amsmath,amssymb,amsfonts}  % Entornos y símbolos matemáticos
+
+% =========================================
+% 6. Tablas y columnas
+% =========================================
+\usepackage{array}              % Extiende entorno tabular
+\usepackage{tabularx}           % Columnas de ancho variable
+\usepackage{colortbl}           % Colorear filas/columnas
+\usepackage{booktabs}           % Reglas horizontales mejoradas
+\usepackage{multicol}           % Listas y contenido en varias columnas
+\usepackage{caption}            % Personalizar pies de foto/tablas
+
+% =========================================
+% 7. Presentación y alineación de texto
+% =========================================
+\usepackage{ragged2e}           % Justificado avanzado (\justifying)
+
+% =========================================
+% 8. Colores personalizados
+% =========================================
+\usepackage{xcolor}
+% Colores corporativos
+\definecolor{azulKONE}{RGB}{0,79,159}
+\definecolor{fabrimetal}{RGB}{0,79,144}
+\definecolor{grisClaro}{RGB}{245,245,245}
+\definecolor{azulClaro}{RGB}{222,235,247}
+\definecolor{verdeClaro}{RGB}{178,204,93}
+\definecolor{verdeOscuro}{RGB}{130,180,100}
+\definecolor{celeste}{RGB}{107,191,183}
+\definecolor{morado}{RGB}{123,104,180}
+% Color para texto estructural
+\definecolor{mygreen}{RGB}{0,128,0}
+
+% =========================================
+% 9. Personalización de colores en Beamer
+% =========================================
+\setbeamercolor{normal text}{fg=darkgray}  % Texto principal en gris oscuro
+\setbeamercolor{structure}{fg=darkgray}     % Títulos, secciones, etc. en verde
+\setbeamercolor{frametitle}{fg=darkgray}      % Título de diapositiva
+\setbeamercolor{subframetitle}{fg=white,bg=morado}  % Subtítulos
+
+% =========================================
+% 10. Unidades y notación científica
+% =========================================
+\usepackage{siunitx}            % Formato de números y unidades
+\sisetup{
+    output-exponent-marker = \text{e},   % Notación científica 1e3
+    per-mode = symbol,                   % Unidades con “/”
+    separate-uncertainty = true,         % Incertidumbre entre paréntesis
+    multi-part-units = single            % Unidades compuestas
+}
+
+% =========================================
+% 11. Cuadros de color y resaltado
+% =========================================
+\usepackage{tcolorbox}          % Bloques de color personalizados
+
+% =========================================
+% 12. Comandos personalizados
+% =========================================
+\usepackage{fontawesome}        % Iconos (✔, ⚠, ℹ) en listas
+\newcommand{\warningblock}[1]{%
+    \begin{alertblock}{¡ATENCIÓN!}#1\end{alertblock}%
+}
+\newcommand{\tipblock}[1]{%
+    \begin{block}{CONSEJO TÉCNICO}#1\end{block}%
+}
+\newcommand{\noteblock}[1]{%
+    \begin{block}{NOTA IMPORTANTE}#1\end{block}%
+}
+\newcommand{\checkitem}{\item[\faCheckCircle]}
+\newcommand{\alertitem}{\item[\faExclamationTriangle]}
+\newcommand{\infoitem}{\item[\faInfoCircle]}
+
+% =========================================
+% 13. Definir tema de pie de página
+% =========================================
+\setbeamertemplate{footline}{%
+    \leavevmode
+    \hbox{%
+        \begin{beamercolorbox}[wd=\paperwidth,sep=1ex,left]{footline}%
+            \hfill{\footnotesize | © CAPACITACIÓN S.ZÚÑIGA. SANTIAGO DE CHILE}%
+        \end{beamercolorbox}%
+    }%
+}
+
+% =========================================
+% Ahora el preámbulo es coherente y organizado.
+% =========================================
