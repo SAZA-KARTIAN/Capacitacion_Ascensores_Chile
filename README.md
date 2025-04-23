@@ -8,11 +8,11 @@ Este repositorio reúne mis principales trabajos en LaTeX Beamer, estructurados 
 ## 📂 Estructura del Repositorio
 
 ```
-/ presentations                  # Carpeta con archivos .tex y PDFs generados
-  ├── normativa-legal/          # Cursos sobre normativa legal vigente
-  ├── diagnostico-averias/      # Casos prácticos y diagnóstico de fallas
-  ├── manual-mantenimiento/     # Manuales y procedimientos de mantenimiento
-  ├── otros/                    # Otras presentaciones y recursos adicionales
+/ Capacitacion_Ascensores_Chile  # Carpeta con archivos .tex y PDFs generados
+  ├── Normativa Legal Vigente/   # Cursos sobre normativa legal vigente
+  ├── diagnostico-averias/       # Casos prácticos y diagnóstico de fallas
+  ├── manual-mantenimiento/      # Manuales y procedimientos de mantenimiento
+  ├── otros/                     # Otras presentaciones y recursos adicionales
 README.md                        # Este archivo de presentación
 LICENSE                          # Licencia del repositorio
 ```
