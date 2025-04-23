@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2f61749-4afe-480b-87e0-f9a76e5cb367" name="Cambios" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Normativa Legal Vigente/Capacitacion_Ascensores_Chile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Normativa Legal Vigente/Secciones/00_portada.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Normativa Legal Vigente/Secciones/01_Uso_del_presente_material.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Normativa Legal Vigente/Settings/paquetes.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Normativa Legal Vigente/document.tex" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SAZA-KARTIAN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SAZA-KARTIAN/Capacitacion_Ascensores_Chile.git&quot;,
+    &quot;accountId&quot;: &quot;f2ee51be-0a4c-4c7e-a7da-41cba9d97638&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2w8J1LnMXpRfjTx8K7mvaw1wQoF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "LaTeX.00_portada.executor": "Run",
+    "LaTeX.document.executor": "Run",
+    "LaTeX.paquetes.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Tarea predeterminada">
+      <changelist id="b2f61749-4afe-480b-87e0-f9a76e5cb367" name="Cambios" comment="" />
+      <created>1745417051260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745417051260</updated>
+    </task>
+    <servers />
+  </component>
+</project>
